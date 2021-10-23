@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T15:57:50.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="NqG83NvTSBFi8pD_NmGf" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T15:58:37.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="GPabAjQaCgQ7Jq2m_-uE" version="15.5.8" type="github">
   <diagram id="LKdGpRlMpKyBnA1hjhDY" name="Page-1">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="-1i_J7dS3iFgRnR4YcFe-100" value="+ step7: List(ObjectId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-1i_J7dS3iFgRnR4YcFe-92">
           <mxGeometry y="234" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-1i_J7dS3iFgRnR4YcFe-14" value="&lt;h1&gt;Raw Data, Cluster Schema&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=7" vertex="1" parent="1">
-          <mxGeometry x="20" y="24" width="320" height="50" as="geometry" />
+        <mxCell id="-1i_J7dS3iFgRnR4YcFe-14" value="&lt;h1&gt;Raw Data Cluster, DB Schema&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=7" vertex="1" parent="1">
+          <mxGeometry x="20" y="29" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-1i_J7dS3iFgRnR4YcFe-37" value="Step00" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="635" y="119" width="140" height="78" as="geometry" />
