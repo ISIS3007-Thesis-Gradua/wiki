@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T06:59:27.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="AyfMb2TYuW8icxMadLLy" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T15:06:44.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="ji7iWTMH4HUNLYX1ltYl" version="15.5.8" type="github">
   <diagram id="sO6i4V5Ih0l0VnWXtfg0" name="Page-1">
     <mxGraphModel dx="1422" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,6 +292,9 @@
         </mxCell>
         <mxCell id="E3nYvmi_-kXldy3n9IFi-3" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Read-only&lt;/span&gt;&amp;nbsp;Data access&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1157" y="318.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E3nYvmi_-kXldy3n9IFi-5" value="&lt;h1&gt;Gradúa Component Diagram&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=7" vertex="1" parent="1">
+          <mxGeometry x="10" y="24" width="340" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
