@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T18:05:16.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="M-vPVaCFYK08kUaQwkA6" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T18:06:27.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ZjkUlEZS4XP73uCZnLls" version="15.8.2" type="github">
   <diagram id="sO6i4V5Ih0l0VnWXtfg0" name="Page-1">
     <mxGraphModel dx="981" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0GhgGnmfKH9YPCHI_VAk-3" value="«Polly lambda NodeJs function»&lt;br&gt;&lt;b&gt;AWS Polly endpoint&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;spacingLeft=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="0GhgGnmfKH9YPCHI_VAk-3" value="«Polly lambda NodeJs function»&lt;br&gt;&lt;b&gt;Polly Service&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;spacingLeft=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="895" y="205" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0GhgGnmfKH9YPCHI_VAk-4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;whiteSpace=wrap;" parent="0GhgGnmfKH9YPCHI_VAk-3" vertex="1">
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0GhgGnmfKH9YPCHI_VAk-17" value="«Recommendation Lambda Flask function»&lt;br&gt;&lt;b&gt;Recommendation Service&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;spacingLeft=0;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="895" y="516" width="180" height="90" as="geometry" />
+          <mxGeometry x="895" y="510" width="180" height="96" as="geometry" />
         </mxCell>
         <mxCell id="0GhgGnmfKH9YPCHI_VAk-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;whiteSpace=wrap;" parent="0GhgGnmfKH9YPCHI_VAk-17" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -354,10 +354,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rbuDzU9AgJSH_LOs_I-f-3" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="1301" y="630" width="10" height="10" as="geometry" />
+          <mxGeometry x="1300" y="630" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rbuDzU9AgJSH_LOs_I-f-7" value="Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1311" y="625" width="50" height="20" as="geometry" />
+          <mxGeometry x="1310" y="625" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rbuDzU9AgJSH_LOs_I-f-8" value="Event" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1311" y="481" width="50" height="20" as="geometry" />
