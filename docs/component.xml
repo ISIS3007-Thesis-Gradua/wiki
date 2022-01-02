@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T20:22:26.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="kyrQMmH11I2iSHcj-kTT" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T20:29:51.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2Iuqg4dOfJi9CCh5SuDr" version="16.1.2" type="github">
   <diagram id="sO6i4V5Ih0l0VnWXtfg0" name="Page-1">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,9 +229,6 @@
         </mxCell>
         <mxCell id="E3nYvmi_-kXldy3n9IFi-1" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="758" y="540" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="E3nYvmi_-kXldy3n9IFi-5" value="&lt;h1&gt;Gradúa Components Diagram&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=7" parent="1" vertex="1">
-          <mxGeometry x="28" y="40" width="360" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kYEWG1Sd7uXppUPBGJAD-14" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;entryX=0.5;entryY=0.5;endSize=6;strokeWidth=1;sketch=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="hDYnivV6V80YoJdvM0cG-17" target="kYEWG1Sd7uXppUPBGJAD-15" edge="1">
           <mxGeometry relative="1" as="geometry">
