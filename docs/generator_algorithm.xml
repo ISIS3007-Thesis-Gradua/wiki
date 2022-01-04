@@ -1,49 +1,278 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T11:18:59.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="piPKsHgYyqe7-l9nLsGu" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-04T20:07:19.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="R8Rnj8Rs0-tRCKUjAOjb" version="16.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Agregar el tiempo del Paso 00 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-0" value="Obtener Paso 00" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="227" as="sourcePoint" />
+            <mxPoint x="130" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="600SOM6VnbO0sSRLe1oy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.5" y="307" as="sourcePoint" />
+            <mxPoint x="139.5" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-3" value="Agregar el tiempo del Paso 01 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-4" value="Obtener Paso 01" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="451.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-4" target="600SOM6VnbO0sSRLe1oy-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="387" as="sourcePoint" />
+            <mxPoint x="130" y="437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-3" target="600SOM6VnbO0sSRLe1oy-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.5" y="467" as="sourcePoint" />
+            <mxPoint x="139.5" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-7" value="Agregar el tiempo del Paso 1 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="820" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-8" value="Obtener Paso 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="700" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="600SOM6VnbO0sSRLe1oy-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-8" target="600SOM6VnbO0sSRLe1oy-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="557" as="sourcePoint" />
+            <mxPoint x="130" y="607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-11" value="Agregar el tiempo del Paso 2 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="287" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-12" value="Obtener Paso 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="207" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-13" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-12" target="600SOM6VnbO0sSRLe1oy-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="247" as="sourcePoint" />
+            <mxPoint x="581" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-11" target="600SOM6VnbO0sSRLe1oy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590.5" y="327" as="sourcePoint" />
+            <mxPoint x="591" y="372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-17" value="El paso 2 debe estar?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="173" width="110" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-18" value="Escoger aleatoriamente si el paso 2 debe estar presente o no" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-17" target="600SOM6VnbO0sSRLe1oy-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="232" as="sourcePoint" />
+            <mxPoint x="520" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-18" target="600SOM6VnbO0sSRLe1oy-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="-28" as="sourcePoint" />
+            <mxPoint x="450" y="12" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-22" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-17" target="600SOM6VnbO0sSRLe1oy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601" y="337" as="sourcePoint" />
+            <mxPoint x="531" y="377" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="360" />
+              <mxPoint x="591" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-24" value="Agregar el tiempo del Paso 6 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-25" value="Obtener Paso 6" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-26" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-25" target="600SOM6VnbO0sSRLe1oy-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="717" as="sourcePoint" />
+            <mxPoint x="130" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-27" value="Agregar el tiempo del Paso 7 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-28" value="Obtener Paso 7" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-29" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-28" target="600SOM6VnbO0sSRLe1oy-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="867" as="sourcePoint" />
+            <mxPoint x="130" y="917" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-30" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-24" target="600SOM6VnbO0sSRLe1oy-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="728" as="sourcePoint" />
+            <mxPoint x="150" y="768" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-31" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-27" target="600SOM6VnbO0sSRLe1oy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="870" as="sourcePoint" />
+            <mxPoint x="150" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1290" />
+              <mxPoint x="300" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-32" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="405" y="280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-33" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="485" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-34" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-7" target="600SOM6VnbO0sSRLe1oy-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="727" as="sourcePoint" />
+            <mxPoint x="150" y="757" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-35" value="El tiempo total es menor al tiempo maximo?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="526" y="390" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-36" value="Calcular el tiempo maximo de la meditacion con los parametros ingresados" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="70" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-37" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-36" target="600SOM6VnbO0sSRLe1oy-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="230" as="sourcePoint" />
+            <mxPoint x="150" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-39" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="600SOM6VnbO0sSRLe1oy-56" source="600SOM6VnbO0sSRLe1oy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="448.5" as="sourcePoint" />
+            <mxPoint x="707" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-40" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="661" y="451.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-41" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="600SOM6VnbO0sSRLe1oy-43" source="600SOM6VnbO0sSRLe1oy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="530" as="sourcePoint" />
+            <mxPoint x="669.5" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-42" value="Agregar el tiempo del Paso 3 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-43" value="Obtener Paso 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="550" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-44" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-43" target="600SOM6VnbO0sSRLe1oy-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="590" as="sourcePoint" />
+            <mxPoint x="581" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-45" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601" y="760" as="sourcePoint" />
+            <mxPoint x="591" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-46" value="El tiempo total es menor al tiempo maximo?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="526" y="710" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-48" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-46" target="600SOM6VnbO0sSRLe1oy-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="768.5" as="sourcePoint" />
+            <mxPoint x="707" y="769.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-49" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="661" y="771.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-50" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-46" target="600SOM6VnbO0sSRLe1oy-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="850" as="sourcePoint" />
+            <mxPoint x="669.5" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-51" value="Agregar el tiempo del Paso 4 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="950" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-52" value="Obtener Paso 4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="531" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-53" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-52" target="600SOM6VnbO0sSRLe1oy-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="910" as="sourcePoint" />
+            <mxPoint x="581" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-54" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="601" y="1080" as="sourcePoint" />
+            <mxPoint x="591" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-55" value="El tiempo total es menor al tiempo maximo?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525.5" y="1030" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-56" value="Retornar la rutina generada" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="706.5" y="1069.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-57" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-55" target="600SOM6VnbO0sSRLe1oy-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="689.5" y="1088.5" as="sourcePoint" />
+            <mxPoint x="724.5" y="1133.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-58" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660.5" y="1091.5" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-59" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-55" target="600SOM6VnbO0sSRLe1oy-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.5" y="1170" as="sourcePoint" />
+            <mxPoint x="669" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-60" value="Agregar el tiempo del Paso 5 al tiempo total" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530.5" y="1270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-61" value="Obtener Paso 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530.5" y="1190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-62" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-61" target="600SOM6VnbO0sSRLe1oy-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580.5" y="1230" as="sourcePoint" />
+            <mxPoint x="580.5" y="1280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="600SOM6VnbO0sSRLe1oy-63" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="600SOM6VnbO0sSRLe1oy-60" target="600SOM6VnbO0sSRLe1oy-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600.5" y="1400" as="sourcePoint" />
+            <mxPoint x="590.5" y="1350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="1290" />
+              <mxPoint x="430" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
